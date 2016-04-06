@@ -1,6 +1,6 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
-author: "Bhupal Rai"
+author: "Sanjeeb Kc"
 date: '2016 March'
 output: html_document
 ---
